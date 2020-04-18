@@ -1,0 +1,27 @@
+{
+  "name": "promedical",
+  "version": "1.0.0",
+  "description": "a theme for medical shops and hospetal",
+  "main": "index.html",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "midecal",
+    "hospetal",
+    "shop",
+    "theme",
+    "themeforest"
+  ],
+  "author": "rathemes.com , mohamed said",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.2.1"
+  }
+}
